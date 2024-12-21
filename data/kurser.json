@@ -4,62 +4,62 @@
     "name": "Teknik",
     "description": "Utforska teknikens värld och lär dig om innovation, tekniska lösningar och hållbar utveckling.",
     "content": "Kursen ger en introduktion till tekniska system, ingenjörsmässiga metoder och problemlösning. Du får arbeta med projekt och experiment för att förstå hur teknik påverkar vår vardag.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/teknik"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DTEK%26date%3D2024-12-21%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   },
   {
     "id": "webbutveckling",
     "name": "Webbutveckling",
     "description": "Lär dig att skapa moderna webbplatser med HTML, CSS och JavaScript.",
     "content": "Kursen täcker grunderna i frontend-utveckling, inklusive responsiv design, användarupplevelse och webbstandarder. Du får även arbeta med enklare backend-tekniker och webbservrar.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/webbutveckling"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26courseCode%3DWEUWEB01%26date%3D2024-12-22%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEUWEB01"
   },
   {
     "id": "fysik",
     "name": "Fysik",
     "description": "Studera universums lagar och lär dig om mekanik, energi och vågrörelse.",
     "content": "Kursen omfattar klassisk mekanik, energiprinciper, elektriska kretsar och grundläggande kvantfysik. Du får även arbeta med laborationer för att koppla teori till praktiska tillämpningar.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/fysik"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DFYS%26date%3D2024-12-21%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   },
   {
     "id": "kemi",
     "name": "Kemi",
     "description": "Utforska materiens sammansättning och lär dig om kemiska reaktioner.",
     "content": "Kursen täcker grundläggande kemi, såsom periodiska systemet, syror och baser, samt kemiska bindningar. Laborationer ingår för att ge praktisk erfarenhet av kemiska processer.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/kemi"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DKEM%26date%3D2024-12-21%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   },
   {
     "id": "matematik",
     "name": "Matematik",
     "description": "Fördjupa dig i algebra, geometri och problemlösning för tekniska tillämpningar.",
     "content": "Kursen inkluderar funktioner, derivata, integraler och sannolikhetslära. Fokus ligger på att använda matematik för att lösa problem inom teknik och naturvetenskap.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/matematik"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DMAT%26date%3D2024-12-21%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   },
   {
     "id": "svenska",
     "name": "Svenska",
     "description": "Utveckla din förmåga att kommunicera effektivt på svenska i både tal och skrift.",
     "content": "Kursen innehåller moment som litteraturstudier, retorik, argumentation och formellt skrivande. Fokus ligger på att stärka dina språkliga och analytiska färdigheter.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/svenska"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DSVE%26date%3D2024-12-21%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   },
   {
     "id": "engelska",
     "name": "Engelska",
     "description": "Förbättra dina språkkunskaper i engelska och förbered dig för internationella sammanhang.",
     "content": "Kursen omfattar språkförståelse, muntlig kommunikation, och skriftlig produktion. Fokus ligger på att bygga ordförråd och uttrycka sig i olika formella och informella situationer.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/engelska"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DENG%26date%3D2024-12-21%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   },
   {
     "id": "programmering",
     "name": "Programmering",
     "description": "Lär dig grunderna i programmering och utveckla dina egna program.",
     "content": "Kursen introducerar programmeringsspråk, algoritmer, datastrukturer och problemlösning. Du får praktisk erfarenhet av att skapa egna projekt och arbeta med kod.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/programmering"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DPRR%26courseCode%3DPRRPRR01%26date%3D2024-12-21%26lang%3D%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_PRRPRR01"
   },
   {
     "id": "idrott",
     "name": "Idrott och hälsa",
     "description": "Fokus på att utveckla fysisk hälsa och en hållbar livsstil.",
     "content": "Kursen innehåller träning, teorier om hälsa och välbefinnande, samt praktiska moment som rör koordination, uthållighet och rörelseglädje.",
-    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/idrott-och-halsa"
+    "externalLink": "https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DIDR%26date%3D2024-12-21%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3"
   }
 ]
