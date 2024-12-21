@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mina kurser - Karl Olsson</title>
+    <meta name="description" content="Det här är kurserna jag tagit">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <script defer src="js/base-layout.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/dark-mode.css">
+</head>
+<body>
+    <cv-header></cv-header>
+
+    <main class="container my-5">
+        <div class="main-body">
+            <div id="course-image" class="text-center mb-4"></div>
+            <h1 id="course-title" class="text-center">Kursnamn</h1>
+            <p id="course-description" class="lead text-center">Här kommer detaljer om kursen att visas.</p>
+            <p id="course-content" class="lead text-center">Här kommer mer detaljer om kursen att visas.</p>
+            <p class="text-center">
+                <a id="course-external-link" href="#" class="btn btn-primary d-none" rel="noopener noreferrer">Läs mer på Skolverket</a>
+            </p>
+        </div>
+        <div class="text-end">
+            <a href="index.html" class="btn btn-outline-primary mt-4">
+                <i class="bi bi-arrow-left"></i> Tillbaka till startsidan
+            </a>
+            <a href="om.html" class="btn btn-outline-primary mt-4">
+                Om mig <i class="bi bi-arrow-right"></i>
+            </a>
+            <a href="intressen.html" class="btn btn-outline-primary mt-4">
+                Intressen <i class="bi bi-arrow-right"></i>
+            </a>
+        </div>
+    </main>
+
+    <cv-footer></cv-footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/kurser.js"></script>
+</body>
+</html>

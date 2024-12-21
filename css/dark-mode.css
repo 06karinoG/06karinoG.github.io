@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode a {
+    color: #90caf9;
+}
+
+.dark-mode .navbar {
+    background-color: #1c1c1c;
+}
+
+.dark-mode .btn-outline-light {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.dark-mode .footer {
+    background-color: #1c1c1c;
+}
